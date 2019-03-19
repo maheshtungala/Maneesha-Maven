@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Maneesha-Suite">
+<test name="maneesha-test">
+<classes>
+ <class name="myPack.Maneesha"/>
+</classes>
+</test>
+</suite>
